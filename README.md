@@ -3,6 +3,7 @@
 
 <img src="images/bytecoin.png" width="350" height="750">
 
+* API to fetch data
 * Model View Controller (MVC) pattern
 * Delegates
 * Swift protocols
